@@ -10,26 +10,20 @@
   info: Check out the agenda
   link: /agenda
 
-- inverted: 
-  img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
-  link: /team
+#- inverted: 
+#  img: icon-team.jpeg
+#  name: Team
+#  info: Find out the team members
+#  link: /team
 
-- inverted: timeline-inverted
+- inverted:
   img: icon-venue.jpeg
   name: Venue
   info: Learn more about our location
   link: /venue
 
-- inverted: 
-  img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
-
 - inverted: timeline-inverted
   img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
+  name: Photo Album
+  info: Upload your photos to share with everyone! 
+  link: https://photos.google.com/u/2/share/AF1QipM-sOzBCcYsydgSj_41U4lstxUGyYjTb0wIbQoSK9iNKzpRRJRymDYQLy6rmlOwqw?key=dXhFNGt0Z21KQkNKYnZic0c1bl82UDEzYzRlZEdR
