@@ -1,20 +1,14 @@
 - inverted: 
   img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
+  name: General Info
+  info: Theme, Cost, other stuff.
   link: /about
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
+  name: Schedule
+  info: Check out the schedule!
   link: /agenda
-
-#- inverted: 
-#  img: icon-team.jpeg
-#  name: Team
-#  info: Find out the team members
-#  link: /team
 
 - inverted:
   img: icon-venue.jpeg
@@ -26,4 +20,4 @@
   img: booklet-icon.png
   name: Photo Album
   info: Upload your photos to share with everyone! 
-  link: https://photos.google.com/u/2/share/AF1QipM-sOzBCcYsydgSj_41U4lstxUGyYjTb0wIbQoSK9iNKzpRRJRymDYQLy6rmlOwqw?key=dXhFNGt0Z21KQkNKYnZic0c1bl82UDEzYzRlZEdR
+  link: https://photos.app.goo.gl/q1YmkP3A2f1HuLmr6
