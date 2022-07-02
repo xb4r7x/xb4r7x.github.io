@@ -1,0 +1,151 @@
+---
+layout: 2017_default
+permalink: /agenda
+title: Agenda
+published: true
+---
+    <!--background color-->
+    <script type="text/javascript">
+        document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+    </script>
+
+    <div class="event black-frame">
+      <h1>{{ page.title }}</h1>
+
+        <h2>Day 1 - Saturday</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_1 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+
+        <h2>Day 2 - Sunday</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_2 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+        <h2>Day 3 - Monday</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_3 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+        <h2>Day 4 - Tuesday</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_4 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+        <h2>Day 5 - Wednesday</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_5 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+        <h2>Day 6 - Thursday</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_6 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+        <h2>Day 7 - Friday</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_7 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+        <h2>Day 8 - Saturday</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_8 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+    </div>
