@@ -1,0 +1,23 @@
+- inverted: 
+  img: icon-about.jpeg
+  name: General Info
+  info: Theme, Cost, other stuff.
+  link: /about
+
+- inverted: timeline-inverted
+  img: icon-agenda.jpeg
+  name: Schedule
+  info: Check out the schedule!
+  link: /agenda
+
+- inverted:
+  img: icon-venue.jpeg
+  name: Venue
+  info: Learn more about our location
+  link: /venue
+
+- inverted: timeline-inverted
+  img: booklet-icon.png
+  name: Photo Album
+  info: Upload your photos to share with everyone! 
+  link: https://photos.app.goo.gl/q1YmkP3A2f1HuLmr6
