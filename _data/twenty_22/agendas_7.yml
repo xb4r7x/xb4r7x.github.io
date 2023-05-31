@@ -1,5 +1,14 @@
-- time: Time TBD
-  info: "<b>Leftover Night!</b>"
-
+- time: All Day!
+  info: "<b>WEDDING!!</b>"
+- time: "12:30"
+  info: "<b>Transportation will be provided for all who would like to use it (55 passenger motor-coach - plenty of room for everyone & everything you want to bring ) from Reunion to the church</b>"
+- time: "2:00"
+  info: "<b>Wedding Ceremony</b>"
+- time: "3:30"
+  info: "<b>Transportaion from church to reception</b>"
+- time: "3:30+"
+  info: "<b>Reception</b>"
+- time: "9:30 - 9:45"
+  info: "<b>Transportation from reception back to reunion</b>"
 #- time: 12:00 PM - 3:00 PM
 #  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
